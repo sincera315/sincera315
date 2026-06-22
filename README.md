@@ -7,6 +7,8 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/mahnoor-mehmood-289028299"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:sincerer315@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
+  <img src="https://img.shields.io/badge/Phone-%2B92%203360490332-25D366?style=flat&logo=whatsapp&logoColor=white" alt="Phone">
+  <img src="https://img.shields.io/badge/Location-Islamabad%2C%20Pakistan-4285F4?style=flat&logo=googlemaps&logoColor=white" alt="Location">
 </p>
 
 ---
@@ -49,31 +51,31 @@ Led graphics, social media, content writing, photography, and videography for th
 
 **Languages**
 <br>
-<img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-<img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
-<img src="https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#">
+<img src="https://img.shields.io/badge/-Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python">
+<img src="https://img.shields.io/badge/-C++-0d1117?style=for-the-badge&logo=cplusplus&logoColor=00599C" alt="C++">
+<img src="https://img.shields.io/badge/-C%23-0d1117?style=for-the-badge&logo=csharp&logoColor=9B4F96" alt="C#">
 
 **AI / Machine Learning**
 <br>
-<img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
-<img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
-<img src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV">
+<img src="https://img.shields.io/badge/-PyTorch-0d1117?style=for-the-badge&logo=pytorch&logoColor=EE4C2C" alt="PyTorch">
+<img src="https://img.shields.io/badge/-TensorFlow-0d1117?style=for-the-badge&logo=tensorflow&logoColor=FF6F00" alt="TensorFlow">
+<img src="https://img.shields.io/badge/-OpenCV-0d1117?style=for-the-badge&logo=opencv&logoColor=5C3EE8" alt="OpenCV">
 
 </td>
 <td valign="top" width="50%">
 
 **Tools & Infrastructure**
 <br>
-<img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-<img src="https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions">
-<img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-<img src="https://img.shields.io/badge/-n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n">
+<img src="https://img.shields.io/badge/-Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker">
+<img src="https://img.shields.io/badge/-GitHub%20Actions-0d1117?style=for-the-badge&logo=githubactions&logoColor=2088FF" alt="GitHub Actions">
+<img src="https://img.shields.io/badge/-Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032" alt="Git">
+<img src="https://img.shields.io/badge/-n8n-0d1117?style=for-the-badge&logo=n8n&logoColor=EA4B71" alt="n8n">
 
 **Platforms & Data**
 <br>
-<img src="https://img.shields.io/badge/-Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity">
-<img src="https://img.shields.io/badge/-gRPC-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="gRPC">
-<img src="https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel">
+<img src="https://img.shields.io/badge/-Unity-0d1117?style=for-the-badge&logo=unity&logoColor=FFFFFF" alt="Unity">
+<img src="https://img.shields.io/badge/-gRPC-0d1117?style=for-the-badge&logo=googlecloud&logoColor=4285F4" alt="gRPC">
+<img src="https://img.shields.io/badge/-Excel-0d1117?style=for-the-badge&logo=microsoftexcel&logoColor=217346" alt="Excel">
 
 </td>
 </tr>
@@ -81,24 +83,24 @@ Led graphics, social media, content writing, photography, and videography for th
 
 **Focus Areas**
 <br>
-<img src="https://img.shields.io/badge/-Agentic%20AI-6E40C9?style=flat-square" alt="Agentic AI">
-<img src="https://img.shields.io/badge/-Deepfake%20Detection-D6336C?style=flat-square" alt="Deepfake Detection">
-<img src="https://img.shields.io/badge/-NLP-1F6FEB?style=flat-square" alt="NLP">
-<img src="https://img.shields.io/badge/-Computer%20Vision-0E8A16?style=flat-square" alt="Computer Vision">
-<img src="https://img.shields.io/badge/-REST%20APIs-FB8500?style=flat-square" alt="REST APIs">
-<img src="https://img.shields.io/badge/-Data%20Analysis-5319E7?style=flat-square" alt="Data Analysis">
+<img src="https://img.shields.io/badge/Agentic%20AI-0d1117?style=flat-square&labelColor=0d1117" alt="Agentic AI">
+<img src="https://img.shields.io/badge/Deepfake%20Detection-0d1117?style=flat-square&labelColor=0d1117" alt="Deepfake Detection">
+<img src="https://img.shields.io/badge/NLP-0d1117?style=flat-square&labelColor=0d1117" alt="NLP">
+<img src="https://img.shields.io/badge/Computer%20Vision-0d1117?style=flat-square&labelColor=0d1117" alt="Computer Vision">
+<img src="https://img.shields.io/badge/REST%20APIs-0d1117?style=flat-square&labelColor=0d1117" alt="REST APIs">
+<img src="https://img.shields.io/badge/Data%20Analysis-0d1117?style=flat-square&labelColor=0d1117" alt="Data Analysis">
 
 ---
 
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sincera315&show_icons=true&theme=default&hide_title=false" alt="GitHub Stats" height="170">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sincera315&theme=default" alt="GitHub Streak" height="170">
+  <img src="https://github-readme-stats.vercel.app/api?username=sincera315&show_icons=true&theme=github_dark&hide_title=false&bg_color=0d1117" alt="GitHub Stats" height="170">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sincera315&theme=github-dark&background=0d1117" alt="GitHub Streak" height="170">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sincera315&layout=compact&theme=default" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sincera315&layout=compact&theme=github_dark&bg_color=0d1117" alt="Top Languages">
 </p>
 
 ---
