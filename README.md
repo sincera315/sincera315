@@ -15,12 +15,12 @@
 
 ### About Me
 
-- 🎓 BS Artificial Intelligence @ **FAST-NUCES**, Islamabad — graduating Jul 2026
-- 🔭 Currently building agentic AI systems, audio/speech AI, and deepfake detection tools
-- 🧠 Interested in **Agentic AI**, **Computer Vision**, **NLP**, and **ML research**
-- 💼 Open to internships and opportunities in AI/ML, research, and automation
-- 🌱 Always learning — from gRPC microservices to autonomous agent workflows
-- ✍️ Also enjoy content writing, graphics, and creative work (ex co-lead, FAST Quran and Sunnah Society)
+-  BS Artificial Intelligence @ **FAST-NUCES**, Islamabad — graduating Jul 2026
+-  Currently building agentic AI systems, audio/speech AI, and deepfake detection tools
+-  Interested in **Agentic AI**, **Computer Vision**, **NLP**, and **ML research**
+-  Open to internships and opportunities in AI/ML, research, and automation
+-  Always learning — from gRPC microservices to autonomous agent workflows
+-  Also enjoy content writing, graphics, and creative work (ex co-lead, FAST Quran and Sunnah Society)
 
 ---
 
